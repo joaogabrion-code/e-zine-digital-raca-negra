@@ -1,0 +1,12 @@
+Coloque aqui as fotos dos integrantes, com ESTES nomes exatos (minusculas):
+
+luiz-carlos.jpg
+paulinho.jpg
+fininho.jpg
+fena.jpg
+fernando-monstrinho.jpg
+edson-cafe.jpg
+gabu.jpg
+
+Aceita .jpg, .png, .jpeg ou .webp. Se a foto nao existir, o e-zine mostra o icone.
+Apos enviar as fotos ao GitHub, espere 1-2 minutos e atualize o site (Ctrl+F5).
